@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Exceptions;
 
 public class InvalidException extends Exception{
     public InvalidException(String string) {
